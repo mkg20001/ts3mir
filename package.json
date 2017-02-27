@@ -1,0 +1,19 @@
+{
+  "name": "ts3mirror",
+  "version": "0.0.1",
+  "description": "A teamspeak3 mirror programm, usefull for ci-testing on ts3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts3",
+    "mirror"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.79.0"
+  }
+}
