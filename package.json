@@ -13,7 +13,7 @@
   "author": "Maciej Krüger <mkg20001@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "request": "^2.79.0"
   }
 }
